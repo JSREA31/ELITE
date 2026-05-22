@@ -1,0 +1,195 @@
+{
+  "ship_data": {
+    "energy_level": 256.0,
+    "forward_shield": 255.0,
+    "aft_shield": 255.0,
+    "fuel_level": 70.0,
+    "cabin_temp": 0.0,
+    "laser_temp": 0,
+    "altitude": 255.0,
+    "missile_status": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "lasers": [
+      3,
+      4,
+      0,
+      0
+    ],
+    "escape_capsule": true,
+    "fuel_scoops": true,
+    "ECM_System": true,
+    "energy_bomb": true,
+    "extra_energy_unit": true,
+    "navy_energy_unit": false,
+    "docking_computer": true,
+    "galactic_hyperdrive": true,
+    "large_cargo_bay": true
+  },
+  "player": {
+    "galaxy_number": 2,
+    "current_system_index": 7,
+    "selected_system_index": 7,
+    "short_range_xy": [
+      149,
+      90
+    ],
+    "galactic_xy": [
+      149,
+      90
+    ],
+    "info_screen_page": 10,
+    "distance_to_selected": 0.0,
+    "galaxy_distance_to_selected": 0,
+    "name": "JAMESON",
+    "FIST": 0.0,
+    "kills": 2560.0,
+    "credits": 100.0,
+    "random_market_factor": 0,
+    "market_data": [
+      {
+        "name": "Food",
+        "price": 3.6,
+        "quantity": 16,
+        "unit": "t",
+        "wt_factor": 1000000,
+        "string": "Food"
+      },
+      {
+        "name": "Textiles",
+        "price": 6.0,
+        "quantity": 15,
+        "unit": "t",
+        "wt_factor": 1000000,
+        "string": "Textiles"
+      },
+      {
+        "name": "Radioactives",
+        "price": 20.0,
+        "quantity": 17,
+        "unit": "t",
+        "wt_factor": 1000000,
+        "string": "Radioactives"
+      },
+      {
+        "name": "Slaves",
+        "price": 6.0,
+        "quantity": 0,
+        "unit": "t",
+        "wt_factor": 1000000,
+        "string": "Slaves"
+      },
+      {
+        "name": "Liquor/Wines",
+        "price": 23.2,
+        "quantity": 20,
+        "unit": "t",
+        "wt_factor": 1000000,
+        "string": "Liquor/Wines"
+      },
+      {
+        "name": "Luxuries",
+        "price": 94.4,
+        "quantity": 14,
+        "unit": "t",
+        "wt_factor": 1000000,
+        "string": "Luxuries"
+      },
+      {
+        "name": "Narcotics",
+        "price": 49.6,
+        "quantity": 55,
+        "unit": "t",
+        "wt_factor": 1000000,
+        "string": "Narcotics"
+      },
+      {
+        "name": "Computers",
+        "price": 89.6,
+        "quantity": 0,
+        "unit": "t",
+        "wt_factor": 1000000,
+        "string": "Computers"
+      },
+      {
+        "name": "Machinery",
+        "price": 58.8,
+        "quantity": 10,
+        "unit": "t",
+        "wt_factor": 1000000,
+        "string": "Machinery"
+      },
+      {
+        "name": "Alloys",
+        "price": 33.2,
+        "quantity": 12,
+        "unit": "t",
+        "wt_factor": 1000000,
+        "string": "Alloys"
+      },
+      {
+        "name": "Firearms",
+        "price": 75.6,
+        "quantity": 0,
+        "unit": "t",
+        "wt_factor": 1000000,
+        "string": "Firearms"
+      },
+      {
+        "name": "Furs",
+        "price": 52.4,
+        "quantity": 9,
+        "unit": "t",
+        "wt_factor": 1000000,
+        "string": "Furs"
+      },
+      {
+        "name": "Minerals",
+        "price": 10.8,
+        "quantity": 58,
+        "unit": "t",
+        "wt_factor": 1000000,
+        "string": "Minerals"
+      },
+      {
+        "name": "Gold",
+        "price": 36.8,
+        "quantity": 7,
+        "unit": "kg",
+        "wt_factor": 1000,
+        "string": "Gold"
+      },
+      {
+        "name": "Platinum",
+        "price": 64.4,
+        "quantity": 1,
+        "unit": "kg",
+        "wt_factor": 1000,
+        "string": "Platinum"
+      },
+      {
+        "name": "Gem-Stones",
+        "price": 16.0,
+        "quantity": 0,
+        "unit": "g",
+        "wt_factor": 1,
+        "string": "Gem-Stones"
+      },
+      {
+        "name": "Alien items",
+        "price": 51.2,
+        "quantity": 0,
+        "unit": "t",
+        "wt_factor": 1000000,
+        "string": "Alien items"
+      }
+    ],
+    "cargo_inventory": [],
+    "inventory_weight": 0.0,
+    "mission_number": 1,
+    "mission_status": 5
+  }
+}
