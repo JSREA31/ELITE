@@ -13,5 +13,10 @@ I decided to have a go at optimising the rendering of 3D models in Python using 
 
 This first release of Elite (Python edition) is based on the C64 version which I played as a teenager. It is more or less complete; you can trade, fight, hyperspace and undertake  missions. The controls are pretty much the same as the C64 version, if you need a reminder I’ve created a summary PDF.
 
+If you've played any of the 6502 Elite's the the screen layout and info screens should be familliar.
+
+When yoiu are docked you can buy, trade and equip your ship. You can view the local and galactic charts get status, inventory and market data at any time.
+
+![local galaxy chart](screenshots/local_chart.png)
 
 
