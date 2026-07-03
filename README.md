@@ -5,7 +5,7 @@
 
 The classic space trading and combat game in Python.
 
-So, a while ago I decided to have a go at rendering a 3D rotating cube in Python. This project resulted in the creation of a [BattleZone](https://github.com/JSREA31/Pygame_BattleZone) clone using the models and other assets from the [on-line disassembly](https://6502disassembly.com/va-battlezone/)of the original 6502 code.
+So, a while ago I decided to have a go at rendering a 3D rotating cube in Python. This project resulted in the creation of a [BattleZone](https://github.com/JSREA31/Pygame_BattleZone) clone using the models and other assets from the [on-line disassembly](https://6502disassembly.com/va-battlezone/) of the original 6502 code.
 
 The dodo space station from elite ended up as an “easter egg” in Battlezone.
 
