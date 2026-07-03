@@ -235,19 +235,19 @@ class ShipData:
         self.missile_status = [MissileStatus.PRESENT] * 4
         self.missile_status[3] = MissileStatus.NOT_PRESENT  # Fourth missile not present
         self.lasers=[LaserType.NOT_PRESENT]*4
-        self.lasers[LaserLocation.FRONT.value]=LaserType.MILITARY
-        self.lasers[LaserLocation.BACK.value]=LaserType.MINING
+        self.lasers[LaserLocation.FRONT.value]=LaserType.PULSE
+        self.lasers[LaserLocation.BACK.value]=LaserType.NOT_PRESENT
         self.lasers[LaserLocation.LEFT.value]=LaserType.NOT_PRESENT
         self.lasers[LaserLocation.RIGHT.value]=LaserType.NOT_PRESENT
-        self.escape_capsule = True
-        self.fuel_scoops = True
-        self.ECM_System = True
-        self.energy_bomb = True
-        self.extra_energy_unit = True
+        self.escape_capsule = False
+        self.fuel_scoops = False
+        self.ECM_System = False
+        self.energy_bomb = False
+        self.extra_energy_unit = False
         self.navy_energy_unit = False
-        self.docking_computer = True
-        self.galactic_hyperdrive = True
-        self.large_cargo_bay = True  
+        self.docking_computer = False
+        self.galactic_hyperdrive = False
+        self.large_cargo_bay = False
 
 ship_data = ShipData()
 
@@ -267,7 +267,7 @@ class PlayerStatus:
         self.galaxy_distance_to_selected =0
         self.name = "Jameson"
         self.FIST=0.0
-        self.kills=2560.0
+        self.kills=0.0
         self.credits=100.0
         self.random_market_factor=0
         self.market_data = []

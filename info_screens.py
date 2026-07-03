@@ -919,7 +919,7 @@ def mission_status_checker(input):
     #check if mission already underway
     if player.mission_number ==0:
         #no mission started, check if eligible for mission 1 256 kills and in galaxy 0 or 1
-        if player.kills>=0 and player.galaxy_number<=1:
+        if player.kills>=256 and player.galaxy_number<=1:
             player.mission_number=1
             player.mission_status=MissionStatus.BRIEFING
     elif player.mission_number ==1 and player.mission_status == MissionStatus.COMPLETED:
