@@ -1,5 +1,5 @@
 # Elite  - Python Edition.
-<sub>click image for Youtube video of title screen</sub>
+<sub>Click image for Youtube video of title screen with classic C64 Elite Intro music</sub>
 [![Video Title](screenshots/title_screen.png)](https://www.youtube.com/watch?v=ckh0bwUyng4)
 
 The classic space trading and combat game in Python.
