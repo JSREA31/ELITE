@@ -1,7 +1,6 @@
 # Elite  - Python Edition.
-
-
 [![Video Title](screenshots/title_screen.png)](https://www.youtube.com/watch?v=ckh0bwUyng4)
+<sup>click for Youtube video of titel screen</sup.
 
 The classic space trading and combat game in Python.
 
