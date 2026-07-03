@@ -15,8 +15,24 @@ This first release of Elite (Python edition) is based on the C64 version which I
 
 If you've played any of the 6502 Elite's the the screen layout and info screens should be familliar.
 
-When yoiu are docked you can buy, trade and equip your ship. You can view the local and galactic charts get status, inventory and market data at any time.
+When yoiu are docked you can buy, trade and equip your ship. You can view the local and galactic charts get system info, status, inventory and market data at any time.
 
-![local galaxy chart](screenshots/local_chart.png)
+Short Range chart
+![local system chart](screenshots/local_chart.png)
+
+System Info
+![system_info](screenshots/system_data.png)
+
+Galaxy Chart
+![galaxy chart](screenshots/galaxy_chart.png)
+
+Market Prices
+![market prices](screenshots/market_prices.png)
+
+Equip Ship
+![equip ship](screenshots/equip_ship.png)
+
+
+
 
 
