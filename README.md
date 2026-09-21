@@ -32,8 +32,22 @@ Equip Ship
 ![equip ship](screenshots/equip_ship.png)
 
 
-<sub>Click image for Youtube video of title screen with classic C64 Elite Intro music</sub>
+<sub>Click image for Youtube video of actual game play</sub>
 [![Video Title](screenshots/space_station.png)](https://www.youtube.com/watch?v=YBAxCccKUPA)
+
+Flight supports all of the options in the original. Multiple laser types, fuel scoops, missiles (with HUD targeting box!), ECM, Energy bomb and the escape pod. You can use the fuel scoops to mine asteroids (with a mining laser), pick up items and skim the sun for fuel. The docking computer music is lifted from the C64 and still sounds awesome.
+
+Two of the missions are supported including the special ship and the Thargoids.
+
+
+Combat
+![equip ship](screenshots/combat.png)
+
+Game Over!
+![equip ship](screenshots/game_over.png)
+
+
+
 
 
 
