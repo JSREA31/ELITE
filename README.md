@@ -32,6 +32,8 @@ Equip Ship
 ![equip ship](screenshots/equip_ship.png)
 
 
+<sub>Click image for Youtube video of title screen with classic C64 Elite Intro music</sub>
+[![Video Title](screenshots/Space Station View.png)](https://www.youtube.com/watch?v=YBAxCccKUPA)
 
 
 
