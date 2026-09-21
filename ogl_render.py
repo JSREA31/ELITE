@@ -493,7 +493,9 @@ def generate_face_list(objectList, view_matrix, player_position,player_right,pla
             visible, clipped_poly = is_visible_projected(poly, WIDTH, HEIGHT)
             if not visible or clipped_poly is None:
                 continue
-            cp = np.cross(clipped_poly[1] - clipped_poly[0], clipped_poly[2] - clipped_poly[1])
+            edge_a = clipped_poly[1] - clipped_poly[0]
+            edge_b = clipped_poly[2] - clipped_poly[1]
+            cp = edge_a[0] * edge_b[1] - edge_a[1] * edge_b[0]
             if cp <= 0:
                 continue
 
